@@ -1,0 +1,14 @@
+{
+  "name": "dual-alpha-console",
+  "version": "1.0.0",
+  "description": "US ETF Dip-Buying Radar & KR Event Arbitrage Console",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "express": "^4.21.1",
+    "yahoo-finance2": "^2.13.0"
+  }
+}
